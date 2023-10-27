@@ -1,0 +1,561 @@
+<REAPER_PROJECT 0.1 "6.0/x64" 1698361739
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2
+  ZOOM 6.39417069154753 0 0
+  VZOOMEX 7
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN divnertie
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 4 4 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 3
+  TAKELANE 1
+  SAMPLERATE 44100 1 0
+  INTMIXMODE 4
+  <RENDER_CFG
+    bDNwbUABAAAAAAAAAgAAAP////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 3 5
+  SELECTION2 3 5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {3DEFF98C-1696-476F-91E8-FDB8FDB449C6}
+    NAME divnertie1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3DEFF98C-1696-476F-91E8-FDB8FDB449C6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 12.74798008775792
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.888151 0 1 0 0
+      FADEOUT 1 1.112 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7B4AEAAA-CF27-4C3E-858F-D7A6690F55BA}
+      IID 11
+      NAME INERTIE2.mp3
+      VOLPAN 0.897436 0 1 -1
+      SOFFS 48
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71175086-8038-472E-B206-7D7FC6EF053D}
+      <SOURCE MP3
+        FILE "INERTIE2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3399BE6-35F8-42E7-BC4A-A5331DB5C96F}
+      IID 14
+      NAME "SNCF   parodie   Train sans arret.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6A5A35A-431E-481F-97E4-0B544E5F4A3E}
+      <SOURCE MP3
+        FILE "SNCF   parodie   Train sans arret.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58
+      SNAPOFFS 0
+      LENGTH 9.668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F62F035B-287E-4E06-89DC-84D3294D1474}
+      IID 16
+      NAME "SNCF   parodie   Train sans arret.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 17
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABFD2D5E-0F4A-4720-9EE7-8F754DD34A7F}
+      <SOURCE MP3
+        FILE "SNCF   parodie   Train sans arret.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.999306 0 1 0 0
+      FADEOUT 1 2.889886 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4752F8BF-53E5-4EE8-8358-57E3C549F6F2}
+      IID 13
+      NAME INERTIE2.mp3
+      VOLPAN 0.935897 0 1 -1
+      SOFFS 60
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFDCED01-F498-4D6F-833E-AE1FC8588504}
+      <SOURCE MP3
+        FILE "INERTIE2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 77
+      SNAPOFFS 0
+      LENGTH 29
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.762084 0 1 0 0
+      FADEOUT 1 1.821012 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B4DE9227-2863-4A19-AC0D-E40923B20D54}
+      IID 7
+      NAME INERTIE.mp3
+      VOLPAN 0.974359 0 1 -1
+      SOFFS 32
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EEF7C53-C566-452E-8729-1E165EF46425}
+      <SOURCE MP3
+        FILE "INERTIE.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 126
+      SNAPOFFS 0
+      LENGTH 29
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.854141 0 1 0 0
+      FADEOUT 1 1.302011 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {05EE1306-21BE-4491-AF08-15FD89352B2B}
+      IID 29
+      NAME "Tyler, The Creator - EARFQUAKE _ NEW MAGIC WAND (Live at the 2020 GRAMMYs).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 66
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA051921-B1AD-4CB8-BD4A-5EAC4E91ECB1}
+      <SOURCE MP3
+        FILE "Tyler, The Creator - EARFQUAKE _ NEW MAGIC WAND (Live at the 2020 GRAMMYs).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.51223 0 1 0 0
+      FADEOUT 1 1.555383 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {344AAE90-5CFA-4E2C-AF5B-605A7DE96811}
+      IID 32
+      NAME "Joji - Ew.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 43
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06301F79-9C5D-4091-9749-141747776724}
+      <SOURCE MP3
+        FILE "Joji - Ew.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 177
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.997164 0 1 0 0
+      FADEOUT 1 1.55858 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D0BD531-1E2E-4B7F-86B9-2408D0410271}
+      IID 18
+      NAME "Amaarae - JUMPING SHIP ft Kojey Radical _ Cruel Santino (Official Video).mp3"
+      VOLPAN 0.974359 0 1 -1
+      SOFFS 140
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A42E4916-DA4D-49BC-90DD-04A3A9A7D24F}
+      <SOURCE MP3
+        FILE "Amaarae - JUMPING SHIP ft Kojey Radical _ Cruel Santino (Official Video).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 197.0355625
+      SNAPOFFS 0
+      LENGTH 36.9644375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.109742 0 1 0 0
+      FADEOUT 1 1.112038 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {48DABE0A-F2FE-4DFC-90BF-85076F29FE6E}
+      IID 3
+      NAME "🌧️ 𝘢𝘨𝘰𝘳𝘢𝘱𝘩𝘰𝘣𝘪𝘤 🌧️ render 001.wav"
+      VOLPAN 0.948718 0 1 -1
+      SOFFS 35.0355625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D9B0142-0F7A-4954-BBC9-92EEA1BDD1BF}
+      <SOURCE WAVE
+        FILE "🌧️ 𝘢𝘨𝘰𝘳𝘢𝘱𝘩𝘰𝘣𝘪𝘤 🌧️ render 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 234
+      SNAPOFFS 0
+      LENGTH 29
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.664016 0 1 0 0
+      FADEOUT 1 3.558655 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B0370AF3-AE12-463C-8661-AD7FAF1F6DEB}
+      IID 19
+      NAME "Denzel Curry _RICKY_ (Live Performance) _ Open Mic.mp3"
+      VOLPAN 0.923077 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57D4D51E-E75C-4BD1-BA04-84979FAE2F9B}
+      <SOURCE MP3
+        FILE "Denzel Curry _RICKY_ (Live Performance) _ Open Mic.mp3" 1
+      >
+    >
+  >
+  <TRACK {A78E59B3-569F-43CD-AB10-3D907352AC99}
+    NAME divnertie2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.42145870954057 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A78E59B3-569F-43CD-AB10-3D907352AC99}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C30CED19-EBB5-4ED1-B307-EA8C67F21259}
+      IID 22
+      NAME "UI Sounds_ Futuristic sound effects example.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F9C5824-65A4-4B7A-BEFE-11C749AF6A58}
+      <SOURCE MP3
+        FILE "UI Sounds_ Futuristic sound effects example.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23
+      SNAPOFFS 0
+      LENGTH 18.02933333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 1.218605 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0129250D-9ADF-49F9-870B-ADB62BFA9D83}
+      IID 1
+      NAME divnertie1.mp3
+      VOLPAN 0.897436 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {980D1C31-AE20-4A66-BA38-910514073B17}
+      <SOURCE MP3
+        FILE "divnertie1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.998748 0 1 0 0
+      FADEOUT 1 0.584043 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA66E478-8447-4143-83A3-8896426FCA4E}
+      IID 2
+      NAME divnertie2.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D00A0E42-F924-4B6F-891C-598F98E3B53E}
+      <SOURCE MP3
+        FILE "divnertie2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 4.668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.962731 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {58F69988-F5B5-4DCC-B967-1CB1BF976404}
+      IID 4
+      NAME divnertie2.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 19.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49829ED6-7532-4394-BA44-529C637F0E38}
+      <SOURCE MP3
+        FILE "divnertie2.mp3" 1
+      >
+    >
+  >
+  <TRACK {33F58966-BD9A-44D5-8C65-DD204FC1196E}
+    NAME "LAW OF AVERAGES (Lyric Video)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.8781896667659 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {33F58966-BD9A-44D5-8C65-DD204FC1196E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.937143 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {67CC4DFA-109D-41C2-90D1-9F1D27C6D141}
+      IID 24
+      NAME "Science _ Technology Background Music For Presentation No Copyright Royalty Free.mp3"
+      VOLPAN 0.722222 0 1 -1
+      SOFFS 80
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD796F62-69ED-4997-8D46-1170E92566A6}
+      <SOURCE MP3
+        FILE "Science _ Technology Background Music For Presentation No Copyright Royalty Free.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 5.0355625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.986641 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29FE8FAE-FB42-4B2B-88B6-8669F44FF030}
+      IID 27
+      NAME "Science _ Technology Background Music For Presentation No Copyright Royalty Free.mp3"
+      VOLPAN 0.855556 0 1 -1
+      SOFFS 115
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1A31187-29C9-4128-B526-07C30DBEF497}
+      <SOURCE MP3
+        FILE "Science _ Technology Background Music For Presentation No Copyright Royalty Free.mp3" 1
+      >
+    >
+  >
+  <TRACK {1A25D4DF-DF39-49CF-85D6-8D6074F1746E}
+    NAME "Amaarae - JUMPING SHIP ft Kojey Radical _ Cruel Santino (Official Video)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1A25D4DF-DF39-49CF-85D6-8D6074F1746E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7834C38D-A4E4-486B-9476-4BCBFB845E77}
+    NAME "Science _ Technology Background Music For Presentation No Copyright Royalty Free"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7834C38D-A4E4-486B-9476-4BCBFB845E77}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>

@@ -1,0 +1,529 @@
+<REAPER_PROJECT 0.1 "6.0/x64" 1698340432
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 1
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 190
+  ZOOM 7.84988197976093 1040 0
+  VZOOMEX 8
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 4 4 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 3
+  TAKELANE 1
+  SAMPLERATE 44100 1 0
+  INTMIXMODE 4
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 260
+  SELECTION2 0 260
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.91693835004149 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {4F89F505-F36A-4F6C-ADEB-3E2645119430}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4F89F505-F36A-4F6C-ADEB-3E2645119430}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 37
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 6.463823 0 1 0 0
+      FADEOUT 1 5.005573 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {358CDB1C-BDEA-4963-9642-7AB7DBA6538E}
+      IID 36
+      NAME "Cigarette après l'amour.mp3"
+      VOLPAN 0.966667 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B110D24-1C9E-4E26-B3C7-59ACDF1A39F2}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Cigarette après l'amour.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 72.5
+      SNAPOFFS 0
+      LENGTH 43.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.424174 0 1 0 0
+      FADEOUT 1 3.641623 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF7CDF35-66D9-4038-AA67-197459559FA3}
+      IID 21
+      NAME "Jok'air - Cigarette (Clip officiel) ft. Serge Gainzbeur.mp3"
+      VOLPAN 0.888889 0 1 -1
+      SOFFS 170
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A192592-9122-4096-BB19-675200FC13A6}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Jok'air - Cigarette (Clip officiel) ft. Serge Gainzbeur.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.5
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.763115 0 1 0 0
+      FADEOUT 1 6.254232 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EE000485-F37F-450D-9C91-16345E62DCD3}
+      IID 17
+      NAME "Guizmo - Le café (Clip Officiel) _ Y_W.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 44
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23EBEA5C-F29B-4C3F-9331-7BF2A2578093}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Guizmo - Le café (Clip Officiel) _ Y_W.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 182
+      SNAPOFFS 0
+      LENGTH 26
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.420195 0 1 0 0
+      FADEOUT 1 3.920499 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF82DDE5-BAE4-4B28-9504-C54AA98D17E3}
+      IID 11
+      NAME "Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 54
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00AF651A-3CBF-4D73-BF98-8F8CD02A554B}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 228
+      SNAPOFFS 0
+      LENGTH 25.6550026765982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.774004 0 1 0 0
+      FADEOUT 1 3.44906 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E292631-CCE2-4BAC-A815-6A058B2F76EB}
+      IID 3
+      NAME "Otis Redding - Cigarettes And Coffee.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10EB5947-26E4-4C73-B622-42385BB9C225}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Otis Redding - Cigarettes And Coffee.mp3" 1
+      >
+    >
+  >
+  <TRACK {63AB3ADC-1E7D-4676-86B4-9F5DD25339B7}
+    NAME santé
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {63AB3ADC-1E7D-4676-86B4-9F5DD25339B7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4293E18C-7105-4E76-9672-F1597D4E1885}
+      IID 28
+      NAME santé.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29208B15-9257-483D-B368-E9B35682BEF1}
+      <SOURCE MP3
+        FILE "santé.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58
+      SNAPOFFS 0
+      LENGTH 14.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC84112C-7471-4F61-9C12-C60EB5604CC0}
+      IID 29
+      NAME santé.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61EBAE95-5ECD-40A0-9D60-D06605B1C65B}
+      <SOURCE MP3
+        FILE "santé.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 116.5
+      SNAPOFFS 0
+      LENGTH 18
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.998499 0 1 0 0
+      FADEOUT 1 2.905665 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FC928BC-2381-4F72-8F60-22346A5AAF97}
+      IID 30
+      NAME santé.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 23.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3148946B-D2AA-4B7E-B5CA-EB99035D68FC}
+      <SOURCE MP3
+        FILE "santé.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 166.5
+      SNAPOFFS 0
+      LENGTH 15.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.891052 0 1 0 0
+      FADEOUT 1 2.124684 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D94362CF-E35F-479B-B5D3-750013504E24}
+      IID 32
+      NAME santé.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 41.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E8FD3B2-4E06-4589-A9F0-BBA87F5C0E36}
+      <SOURCE MP3
+        FILE "santé.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 208
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 1.75456 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B02A83BE-BBD3-4A8E-9584-E0A39072F898}
+      IID 31
+      NAME santé.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 57
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {086A9E43-3BA6-4DB2-BF12-3E6F9EC4FE8B}
+      <SOURCE MP3
+        FILE "santé.mp3" 1
+      >
+    >
+  >
+  <TRACK {05AD3286-B3E1-4DD0-885D-EA3C37E37AF7}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {05AD3286-B3E1-4DD0-885D-EA3C37E37AF7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 4.101792 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CD8DB826-9F26-4476-904C-5D5C6815D381}
+      IID 39
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AA92653-DF5D-4012-86B3-F194EEC3FA0D}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {21BC82FC-BE4F-4E63-A691-BB09AD231F46}
+      IID 40
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 0.166667 0 1 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65FBBFD4-18C2-43F9-9703-63A8254E6AF4}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 5.440444 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86E0A3C1-C960-43AF-B21C-A0964BAAC276}
+      IID 43
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 0.122222 0 1 -1
+      SOFFS 56
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8128EEFC-055F-4D33-AFE6-F27AFD2E2AA3}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.326605 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9DEBEFB1-2813-4D6B-8CAD-53B0F7A869A4}
+      IID 46
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 0.088889 0 1 -1
+      SOFFS 114
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBA73BA6-26EE-483D-B0C8-824C486299BD}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 166
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D2FD96C-96C4-4BB8-8A4B-A3CCC829B917}
+      IID 47
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 0.088889 0 1 -1
+      SOFFS 134
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5DE40EF-35CB-4977-A52E-CA517E526FFF}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 208
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 2.773684 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {944A6FE6-60C7-4848-8714-5BC0807B2B76}
+      IID 49
+      NAME "Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3"
+      VOLPAN 0.088889 0 1 -1
+      SOFFS 150
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31D7E65C-3F3E-4DAE-924F-1166B3739DDB}
+      <SOURCE MP3
+        FILE "C:\Users\armen\Downloads\Documentary free background music _ Medical music royalty free _ Science _ Tech music for video.mp3" 1
+      >
+    >
+  >
+>

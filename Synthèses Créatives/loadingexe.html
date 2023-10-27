@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Audio Player</title>
+<style>
+.file {
+cursor: pointer;
+padding: 10px;
+background-color: #ff8a3f;
+border: 1px solid #ccc;
+display: inline-block;
+}
+.song {
+display: none;
+}
+</style>
+</head>
+<body>
+<div class="file" onclick="showSongs()">"TOUT est OK"</div>
+
+<div class="song">
+<audio controls>
+<source src="song1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="song2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="song3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="song4.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="song5.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<script>
+function showSongs() {
+var songs = document.getElementsByClassName("song");
+for (var i = 0; i < songs.length; i++) {
+songs[i].style.display = "block";
+}
+}
+</script>
+</body>
+</html>

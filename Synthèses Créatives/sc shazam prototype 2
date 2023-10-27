@@ -1,0 +1,134 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TrouvesTonTaquin</title>
+
+<div class="shazam-panel">
+  <div class="vinyl-wooden-style">
+    <div class="earthy-space-design dark-mode">
+      <div class="music-extracts">
+        <div class="music-extract">
+          <img src="album_cover_1.jpg" alt="Album Cover 1">
+          <div class="playlist-slot" style="background-color: color1;">
+            <h3>Topic 1</h3>
+            <p>Lyrics 1</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_2.jpg" alt="Album Cover 2">
+          <div class="playlist-slot" style="background-color: color2;">
+            <h3>Topic 2</h3>
+            <p>Lyrics 2</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_3.jpg" alt="Album Cover 3">
+          <div class="playlist-slot" style="background-color: color3;">
+            <h3>Topic 3</h3>
+            <p>Lyrics 3</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_4.jpg" alt="Album Cover 4">
+          <div class="playlist-slot" style="background-color: color4;">
+            <h3>Topic 4</h3>
+            <p>Lyrics 4</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_5.jpg" alt="Album Cover 5">
+          <div class="playlist-slot" style="background-color: color5;">
+            <h3>Topic 5</h3>
+            <p>Lyrics 5</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_6.jpg" alt="Album Cover 6">
+          <div class="playlist-slot" style="background-color: color6;">
+            <h3>Topic 6</h3>
+            <p>Lyrics 6</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_7.jpg" alt="Album Cover 7">
+          <div class="playlist-slot" style="background-color: color7;">
+            <h3>Topic 7</h3>
+            <p>Lyrics 7</p>
+          </div>
+        </div>
+        <div class="music-extract">
+          <img src="album_cover_8.jpg" alt="Album Cover 8">
+          <div class="playlist-slot" style="background-color: color8;">
+            <h3>Topic 8</h3>
+            <p>Lyrics 8</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+AHAHAHAHAH
+
+ <div class="sidebar">
+        <div class="nav-item" onclick="toggleNavItem(1)">Volet 1</div>
+        <div class="sub-nav">
+            <div class="nav-item sub-item">Sous-élément 1.1</div>
+            <div class="nav-item sub-item">Sous-élément 1.2</div>
+        </div>
+        <div class="nav-item" onclick="toggleNavItem(2)">Volet 2</div>
+        <div class="sub-nav">
+            <div class="nav-item sub-item">Sous-élément 2.1</div>
+            <div class="nav-item sub-item">Sous-élément 2.2</div>
+        </div>
+        <div class="nav-item" onclick="toggleNavItem(3)">Volet 3</div>
+        <div class="sub-nav">
+            <div class="nav-item sub-item">Sous-élément 3.1</div>
+            <div class="nav-item sub-item">Sous-élément 3.2</div>
+        </div>
+        <div class="nav-item" onclick="toggleNavItem(4)">Volet 4</div>
+        <div class="sub-nav">
+            <div class="nav-item sub-item">Sous-élément 4.1</div>
+            <div class="nav-item sub-item">Sous-élément 4.2</div>
+        </div>
+        <div class="nav-item" onclick="toggleNavItem(5)">Volet 5</div>
+        <div class="sub-nav">
+            <div class="nav-item sub-item">Sous-élément 5.1</div>
+            <div class="nav-item sub-item">Sous-élément 5.2</div>
+        </div>
+    </div>
+    <div class="content">
+        <p>Contenu du volet</p>
+    </div>
+
+
+  <div class="sidebar">
+        <div class="playlist" onclick="openPlaylist(1)">
+            <img src="cover1.jpg" alt="Playlist 1">
+            <p>Playlist 1</p>
+        </div>
+        <div class="playlist" onclick="openPlaylist(2)">
+            <img src="cover2.jpg" alt="Playlist 2">
+            <p>Playlist 2</p>
+        </div>
+        <div class="playlist" onclick="openPlaylist(3)">
+            <img src="cover3.jpg" alt="Playlist 3">
+            <p>Playlist 3</p>
+        </div>
+        <div class="playlist" onclick="openPlaylist(4)">
+            <img src="cover4.jpg" alt="Playlist 4">
+            <p>Playlist 4</p>
+        </div>
+        <div class="playlist" onclick="openPlaylist(5)">
+            <img src="cover5.jpg" alt="Playlist 5">
+            <p>Playlist 5</p>
+        </div>
+    </div>
+    <div class="content">
+        <iframe id="playlistFrame" src=""></iframe>
+    </div>
+    <script src="script.js"></script>
+  

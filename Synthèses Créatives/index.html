@@ -1,0 +1,277 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TrouvesTonTaquin</title>
+
+<header>
+
+        <img src="C:\Users\armen\Desktop\Synthèses Créatives\bannière.png" alt="Bannière de la page">
+		<style>
+        header img { width: 100%; height: auto; }
+    </style>
+	
+	 <img src="C:\Users\armen\Desktop\Synthèses Créatives\titreTTT.png" alt="Image en bas de la page" class="bottom-image">
+	 
+	  <img src="C:\Users\armen\Desktop\Synthèses Créatives\basdepage.png" alt="Image en bas de la page" class="bottom-image">
+    </header>
+    
+    <h1>TrouvesTonTaquin, ce n'est pas seulement un site de rencontres en ligne, c'est une expérience musicale qui fait vibrer votre cœur au rythme de vos chansons préférées. Imaginez rencontrer quelqu'un dont la playlist musicale est en harmonie avec la vôtre. C'est comme si l'amour avait trouvé sa bande-son mp3 parfaite.</h1>
+   .</p>
+</head>
+
+	 <img src="C:\Users\armen\Desktop\Synthèses Créatives\OK.jpg" alt="Image en bas de la page" class="bottom-image">
+<body>
+<center>
+<style>
+.file {
+cursor: pointer;
+padding: 20px;
+background-color: #f2f2f2;
+border: 1px solid #ccc;
+display: inline-block;
+
+}
+.song {
+display: none;
+}
+</style>
+</head>
+<body>
+<div class="file" onclick="showSongs()">"Tout est OK"</div>
+
+<div class="song">
+<audio controls>
+<source src="C:\Users\armen\Desktop\Synthèses Créatives\okplaylist.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="C:\Users\armen\Desktop\Synthèses Créatives\bison.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<div class="song">
+<audio controls>
+<source src="song3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+
+
+ </button>
+ 
+ <script>
+function showSongs() {
+var songs = document.getElementsByClassName("song");
+for (var i = 0; i < songs.length; i++) {
+songs[i].style.display = "block";
+}
+}
+</script>
+</body>
+
+            
+          </div>
+        </button>
+
+
+
+
+<body style="background-color: #F0AE45;">
+ 
+ 
+        <h1>Votre profil musical</h1>
+        <form action="recherche.php" method="post">
+            <input type="text" name="chanson" placeholder="Entrez le nom de la chanson">
+            <button type="submit">Rechercher</button>
+        </form>
+   
+   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Explorateur de Fichiers Musicaux</title>
+</head>
+<body>
+    <div class="explorer">
+        <button onclick="goBack()">Retour</button>
+      
+    </div>
+    <div class="content">
+        <h1>tyler the creator, joji, foogieraw, amminé, kaytranada, bryson tiller, nujabes, j.cole, partynextdoor, zillakami, earthgang, hotelugly, anderson paark, amaarae, frank ocean, usher, far caspian, jvke, daniel caesar, goldlink, JID, Nas, childish gambino, asap rocky, kanye, xxxtentacion, SiR, summer walker, thundercat, jorja smith, giveon, brent faiyaz, corpse, denzel curry, kenny mason, smino, kota the friend, clairo, feng suave, mac demarco, mac miller, isaiah rashad, mf doom, king geedorah, saba, steve lacy, , mick jenkins, brockhampton, masego, aaron may, puma blue, russ, earl swearshirt, baby keem, vince staples, joey bada$$, big sean, omar apollo, miles, jean dawson, sainté, the internet, duckwrth, snot, 1nonly   </h1>
+       
+    </div>
+    <audio id="audioPlayer" controls></audio>
+    <script src="script.js"></script>
+     <ul>
+            <li onclick="playSong('chanson1.mp3')">Rediffusion Radio Live 90.69 :</li>
+            <li onclick="playSong('chanson2.mp3')">Edition speciale K-figarette matinal du 27/10/2023</li>
+        </ul>
+	   <style>
+     
+      
+
+      body {
+	  display : grid;
+	  place-items: center;
+      justify-content: center;
+      align-items: center;
+      height: 50vh;
+
+      }
+
+           .heartbeat {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 69px;
+      height: 69px;
+      background-color: #ff6600;
+      border-radius: 360%;
+      box-shadow: 0px 0px 50px rgba(38, 114, 201, 2.0);
+      position: relative;
+      overflow: hidden;
+      }
+
+      .pulse {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: #f2d2bd;
+      position: absolute;
+      opacity: 0;
+      transform: scale(0);
+      box-shadow: 0px 0px 30px rgba(11, 61, 145, 1);
+      animation: pulse 3.0s infinite;
+      }
+
+      .pulse:nth-child(1) {
+      animation-delay: 2.6s;
+      }
+
+      .pulse:nth-child(2) {
+      animation-delay: 2.9s;
+      }
+
+      .pulse:nth-child(3) {
+      animation-delay: 4.0s;
+      }
+
+      @keyframes pulse {
+      0% {
+          opacity: 1;
+          transform: scale(0);
+      }
+
+      25% {
+          opacity: 1;
+          transform: scale(1);
+      }
+
+      75% {
+          opacity: 0.8;
+          transform: scale(2);
+      }
+
+      100% {
+          opacity: 0;
+          transform: scale(3);
+      }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="heartbeat">
+      <div class="pulse"></div>
+      <div class="pulse"></div>
+      <div class="pulse"></div>
+    </div>
+  </body>
+	
+    <main>
+        <h2>Résultats de la recherche</h2>
+        <ul>
+            
+			<img src="C:\Users\armen\Desktop\Synthèses Créatives\div.jfif" alt="Image en bas de la page" class="bottom-image"
+ 
+                <h1>DIV'NERTIE</h1>
+                <audio controls>
+                    <source src="C:\Users\armen\Desktop\Synthèses Créatives/divnertie.mp3" type="audio/mpeg">
+               
+                </audio>
+            
+                             <img src="C:\Users\armen\Desktop\Synthèses Créatives\astrologie.jpg" alt="Image en bas de la page" class="bottom-image"
+							  
+                <h1>MAESTROLOGIQUE</h1>
+                <audio controls>
+                    <source src="audio/chanson2.mp3" type="audio/mpeg">
+  
+                </audio>
+				
+				<img src="C:\Users\armen\Desktop\Synthèses Créatives\caflop.jpg" alt="Image en bas de la page" class="bottom-image"
+				
+				  <h1>RUBRIQUE SANTE</h1>
+                <audio controls>
+                    <source src="C:\Users\armen\Desktop\Synthèses Créatives/café clope.mp3" type="audio/mpeg">
+               
+                </audio>
+           	<img src="C:\Users\armen\Desktop\Synthèses Créatives\affect.jfif" alt="Image en bas de la page" class="bottom-image"
+            
+                <h3>BIAIS VERTS</h3>
+                <audio controls>
+                    <source src="audio/chanson2.mp3" type="audio/mpeg">
+                 
+              
+		
+    
+    
+
+                 
+                </audio>
+            </li>
+        </ul>
+    </main>
+	
+	 <p> <li>Au cœur de la révolution numérique, une startup émerge pour changer la donne dans le monde des rencontres en ligne. Bienvenue à TrouvesTonTaquin, où la musique devient la muse de l'amour !
+
+Ici, nous comprenons que la connexion va bien au-delà des clichés de selfies et des descriptions impersonnelles. TrouvesTonTaquin, c'est le lieu où la symphonie de vos goûts musicaux rencontre celle d'une âme sœur potentielle.
+
+L'empathie, la communicabilité, et l'hospitalité inconditionnelle sont nos maîtres mots. Comme les tempéraments, nous sommes là pour accompagner votre quête d'une connexion authentique. La bienveillance en toutes circonstances est notre credo, car nous croyons en des rencontres authentiques, pas de complaisance ici.
+
+Nous comprenons également la différence entre une personne morale et une personne privée, et nous sommes là pour vous aider à trouver quelqu'un qui partage vos valeurs. </li>
+
+<li>Notre philosophie est basée sur la relativité du temps, l'harmonie du taoïsme, et la force d'inertie qui vous aidera à surmonter les obstacles. Notre fonction phatique vous permettra de briser la glace en discutant de vos artistes préférés.
+
+Pour les amateurs d'astrologie, ne vous inquiétez pas, nous avons pris note de vos préférences et aversions pour les signes astrologiques, même si nous préférons unir les gens plutôt que de les diviser.
+
+Notre raisonnement analogique est comme le meilleur des systèmes de wagons, car nous voulons que vous trouviez la place qui vous convient. Tout comme le gouvernail qui guide le navire, nous vous aidons à naviguer dans le monde des rencontres en ligne.
+
+"L’adaptabilité du chat" est notre devise, car nous savons que les connexions évoluent. Vous verrez l'évolution de l'idée qui germe dans nos profils innovants. </li>
+
+<li> Et pour ceux qui aiment les références culturelles, nous partageons l'amour pour Hans Zimmer, George Orwell, Christopher Nolan, John Travolta, "Le meilleur des mondes", "Interstellar", "Le Seigneur des Anneaux", Dark Vador et Bane de Batman.
+
+Nos concepts visuels sont comme des schémas à 9 points, des jeux de billard et des moments de respiration profonde. Nous utilisons nos sens pour créer les meilleures connexions, et nous vous offrons les trois types d’écoute : active, flottante et JMBLC.
+
+Avec nous, vous découvrirez les 5W (Who, What, Where, When, Why) de l'amour. Vous éviterez les biais cognitifs et comprendrez les connotations des voix (aigu, medium, grave).
+
+Notre posture, de la tête aux pieds en passant par les hanches, est aussi importante que celle d'un moine shaolin ou celle du "Oh les jeunes". </li> <li> En parallèle, nous adoptons la théologie de la médecine chinoise, comme le bambou, à la fois droit et souple.
+
+Nous comprenons l'importance de la gestuelle et de l'environnement, tout comme la Triptyque (Auteur, Producteur, Diffuseur) des connexions réussies.
+
+Votre relation avec les publics est notre priorité, basée sur l'appartenance et la dépendance. Vous êtes l'émetteur, et nous veillons à ce que vous trouviez le récepteur parfait. </li>
+
+<hl>Rejoignez TrouvesTonTaquin, où la musique est le langage de l'amour, et trouvez votre harmonie aujourd'hui !</hl>
+	</center>
+	
+	  <img src="C:\Users\armen\Desktop\Synthèses Créatives\logo.jpeg" alt="Image en bas de la page" class="right-image">
+	  <style>
+        img { width: 10%; height: auto; }
+    </style>
+	
+</body>
+</html>
